@@ -1,5 +1,5 @@
 # LPL_solutions
-Here you can find some solutions of the book __"Language Proof and Logic"__.  
+Here you can find some quite solutions of the book __"Language Proof and Logic"__.  
 Some files are in __prf__ format, which means it needs to be visualized at the Fitch program.  
 With the update (_01 semptember 2019_) __each file can be visualized as jpg format__.  
   
